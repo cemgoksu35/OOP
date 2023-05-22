@@ -1,0 +1,13 @@
+/Users/cemgoksu/Projects/OOP/CemDeneme/bin/Debug/netcoreapp3.1/CemDeneme.deps.json
+/Users/cemgoksu/Projects/OOP/CemDeneme/bin/Debug/netcoreapp3.1/CemDeneme.runtimeconfig.json
+/Users/cemgoksu/Projects/OOP/CemDeneme/bin/Debug/netcoreapp3.1/CemDeneme.runtimeconfig.dev.json
+/Users/cemgoksu/Projects/OOP/CemDeneme/bin/Debug/netcoreapp3.1/CemDeneme.dll
+/Users/cemgoksu/Projects/OOP/CemDeneme/bin/Debug/netcoreapp3.1/CemDeneme.pdb
+/Users/cemgoksu/Projects/OOP/CemDeneme/obj/Debug/netcoreapp3.1/CemDeneme.csproj.AssemblyReference.cache
+/Users/cemgoksu/Projects/OOP/CemDeneme/obj/Debug/netcoreapp3.1/CemDeneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemgoksu/Projects/OOP/CemDeneme/obj/Debug/netcoreapp3.1/CemDeneme.AssemblyInfoInputs.cache
+/Users/cemgoksu/Projects/OOP/CemDeneme/obj/Debug/netcoreapp3.1/CemDeneme.AssemblyInfo.cs
+/Users/cemgoksu/Projects/OOP/CemDeneme/obj/Debug/netcoreapp3.1/CemDeneme.csproj.CoreCompileInputs.cache
+/Users/cemgoksu/Projects/OOP/CemDeneme/obj/Debug/netcoreapp3.1/CemDeneme.dll
+/Users/cemgoksu/Projects/OOP/CemDeneme/obj/Debug/netcoreapp3.1/CemDeneme.pdb
+/Users/cemgoksu/Projects/OOP/CemDeneme/obj/Debug/netcoreapp3.1/CemDeneme.genruntimeconfig.cache

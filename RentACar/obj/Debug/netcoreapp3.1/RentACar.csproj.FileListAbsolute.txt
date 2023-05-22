@@ -1,0 +1,12 @@
+/Users/cemgoksu/Projects/OOP/RentACar/bin/Debug/netcoreapp3.1/RentACar.deps.json
+/Users/cemgoksu/Projects/OOP/RentACar/bin/Debug/netcoreapp3.1/RentACar.runtimeconfig.json
+/Users/cemgoksu/Projects/OOP/RentACar/bin/Debug/netcoreapp3.1/RentACar.runtimeconfig.dev.json
+/Users/cemgoksu/Projects/OOP/RentACar/bin/Debug/netcoreapp3.1/RentACar.dll
+/Users/cemgoksu/Projects/OOP/RentACar/bin/Debug/netcoreapp3.1/RentACar.pdb
+/Users/cemgoksu/Projects/OOP/RentACar/obj/Debug/netcoreapp3.1/RentACar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemgoksu/Projects/OOP/RentACar/obj/Debug/netcoreapp3.1/RentACar.AssemblyInfoInputs.cache
+/Users/cemgoksu/Projects/OOP/RentACar/obj/Debug/netcoreapp3.1/RentACar.AssemblyInfo.cs
+/Users/cemgoksu/Projects/OOP/RentACar/obj/Debug/netcoreapp3.1/RentACar.csproj.CoreCompileInputs.cache
+/Users/cemgoksu/Projects/OOP/RentACar/obj/Debug/netcoreapp3.1/RentACar.dll
+/Users/cemgoksu/Projects/OOP/RentACar/obj/Debug/netcoreapp3.1/RentACar.pdb
+/Users/cemgoksu/Projects/OOP/RentACar/obj/Debug/netcoreapp3.1/RentACar.genruntimeconfig.cache

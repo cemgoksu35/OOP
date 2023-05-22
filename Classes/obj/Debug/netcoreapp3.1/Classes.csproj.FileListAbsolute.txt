@@ -1,0 +1,12 @@
+/Users/cemgoksu/Projects/OOP/Classes/bin/Debug/netcoreapp3.1/Classes.deps.json
+/Users/cemgoksu/Projects/OOP/Classes/bin/Debug/netcoreapp3.1/Classes.runtimeconfig.json
+/Users/cemgoksu/Projects/OOP/Classes/bin/Debug/netcoreapp3.1/Classes.runtimeconfig.dev.json
+/Users/cemgoksu/Projects/OOP/Classes/bin/Debug/netcoreapp3.1/Classes.dll
+/Users/cemgoksu/Projects/OOP/Classes/bin/Debug/netcoreapp3.1/Classes.pdb
+/Users/cemgoksu/Projects/OOP/Classes/obj/Debug/netcoreapp3.1/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemgoksu/Projects/OOP/Classes/obj/Debug/netcoreapp3.1/Classes.AssemblyInfoInputs.cache
+/Users/cemgoksu/Projects/OOP/Classes/obj/Debug/netcoreapp3.1/Classes.AssemblyInfo.cs
+/Users/cemgoksu/Projects/OOP/Classes/obj/Debug/netcoreapp3.1/Classes.csproj.CoreCompileInputs.cache
+/Users/cemgoksu/Projects/OOP/Classes/obj/Debug/netcoreapp3.1/Classes.dll
+/Users/cemgoksu/Projects/OOP/Classes/obj/Debug/netcoreapp3.1/Classes.pdb
+/Users/cemgoksu/Projects/OOP/Classes/obj/Debug/netcoreapp3.1/Classes.genruntimeconfig.cache

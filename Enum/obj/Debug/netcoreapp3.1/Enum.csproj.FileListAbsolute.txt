@@ -1,0 +1,13 @@
+/Users/cemgoksu/Projects/OOP/Enum/bin/Debug/netcoreapp3.1/Enum.deps.json
+/Users/cemgoksu/Projects/OOP/Enum/bin/Debug/netcoreapp3.1/Enum.runtimeconfig.json
+/Users/cemgoksu/Projects/OOP/Enum/bin/Debug/netcoreapp3.1/Enum.runtimeconfig.dev.json
+/Users/cemgoksu/Projects/OOP/Enum/bin/Debug/netcoreapp3.1/Enum.dll
+/Users/cemgoksu/Projects/OOP/Enum/bin/Debug/netcoreapp3.1/Enum.pdb
+/Users/cemgoksu/Projects/OOP/Enum/obj/Debug/netcoreapp3.1/Enum.csproj.AssemblyReference.cache
+/Users/cemgoksu/Projects/OOP/Enum/obj/Debug/netcoreapp3.1/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemgoksu/Projects/OOP/Enum/obj/Debug/netcoreapp3.1/Enum.AssemblyInfoInputs.cache
+/Users/cemgoksu/Projects/OOP/Enum/obj/Debug/netcoreapp3.1/Enum.AssemblyInfo.cs
+/Users/cemgoksu/Projects/OOP/Enum/obj/Debug/netcoreapp3.1/Enum.csproj.CoreCompileInputs.cache
+/Users/cemgoksu/Projects/OOP/Enum/obj/Debug/netcoreapp3.1/Enum.dll
+/Users/cemgoksu/Projects/OOP/Enum/obj/Debug/netcoreapp3.1/Enum.pdb
+/Users/cemgoksu/Projects/OOP/Enum/obj/Debug/netcoreapp3.1/Enum.genruntimeconfig.cache

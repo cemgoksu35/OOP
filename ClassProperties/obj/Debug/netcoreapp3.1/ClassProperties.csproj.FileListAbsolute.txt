@@ -1,0 +1,13 @@
+/Users/cemgoksu/Projects/OOP/ClassProperties/bin/Debug/netcoreapp3.1/ClassProperties.deps.json
+/Users/cemgoksu/Projects/OOP/ClassProperties/bin/Debug/netcoreapp3.1/ClassProperties.runtimeconfig.json
+/Users/cemgoksu/Projects/OOP/ClassProperties/bin/Debug/netcoreapp3.1/ClassProperties.runtimeconfig.dev.json
+/Users/cemgoksu/Projects/OOP/ClassProperties/bin/Debug/netcoreapp3.1/ClassProperties.dll
+/Users/cemgoksu/Projects/OOP/ClassProperties/bin/Debug/netcoreapp3.1/ClassProperties.pdb
+/Users/cemgoksu/Projects/OOP/ClassProperties/obj/Debug/netcoreapp3.1/ClassProperties.csproj.AssemblyReference.cache
+/Users/cemgoksu/Projects/OOP/ClassProperties/obj/Debug/netcoreapp3.1/ClassProperties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemgoksu/Projects/OOP/ClassProperties/obj/Debug/netcoreapp3.1/ClassProperties.AssemblyInfoInputs.cache
+/Users/cemgoksu/Projects/OOP/ClassProperties/obj/Debug/netcoreapp3.1/ClassProperties.AssemblyInfo.cs
+/Users/cemgoksu/Projects/OOP/ClassProperties/obj/Debug/netcoreapp3.1/ClassProperties.csproj.CoreCompileInputs.cache
+/Users/cemgoksu/Projects/OOP/ClassProperties/obj/Debug/netcoreapp3.1/ClassProperties.dll
+/Users/cemgoksu/Projects/OOP/ClassProperties/obj/Debug/netcoreapp3.1/ClassProperties.pdb
+/Users/cemgoksu/Projects/OOP/ClassProperties/obj/Debug/netcoreapp3.1/ClassProperties.genruntimeconfig.cache

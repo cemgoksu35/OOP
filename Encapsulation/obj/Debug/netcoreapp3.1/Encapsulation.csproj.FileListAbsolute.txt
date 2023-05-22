@@ -1,0 +1,13 @@
+/Users/cemgoksu/Projects/OOP/Encapsulation/bin/Debug/netcoreapp3.1/Encapsulation.deps.json
+/Users/cemgoksu/Projects/OOP/Encapsulation/bin/Debug/netcoreapp3.1/Encapsulation.runtimeconfig.json
+/Users/cemgoksu/Projects/OOP/Encapsulation/bin/Debug/netcoreapp3.1/Encapsulation.runtimeconfig.dev.json
+/Users/cemgoksu/Projects/OOP/Encapsulation/bin/Debug/netcoreapp3.1/Encapsulation.dll
+/Users/cemgoksu/Projects/OOP/Encapsulation/bin/Debug/netcoreapp3.1/Encapsulation.pdb
+/Users/cemgoksu/Projects/OOP/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.csproj.AssemblyReference.cache
+/Users/cemgoksu/Projects/OOP/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemgoksu/Projects/OOP/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.AssemblyInfoInputs.cache
+/Users/cemgoksu/Projects/OOP/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.AssemblyInfo.cs
+/Users/cemgoksu/Projects/OOP/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/cemgoksu/Projects/OOP/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.dll
+/Users/cemgoksu/Projects/OOP/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.pdb
+/Users/cemgoksu/Projects/OOP/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.genruntimeconfig.cache

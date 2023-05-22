@@ -1,0 +1,13 @@
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/bin/Debug/netcoreapp3.1/BilgisayarOrnegi.deps.json
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/bin/Debug/netcoreapp3.1/BilgisayarOrnegi.runtimeconfig.json
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/bin/Debug/netcoreapp3.1/BilgisayarOrnegi.runtimeconfig.dev.json
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/bin/Debug/netcoreapp3.1/BilgisayarOrnegi.dll
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/bin/Debug/netcoreapp3.1/BilgisayarOrnegi.pdb
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/obj/Debug/netcoreapp3.1/BilgisayarOrnegi.csproj.AssemblyReference.cache
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/obj/Debug/netcoreapp3.1/BilgisayarOrnegi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/obj/Debug/netcoreapp3.1/BilgisayarOrnegi.AssemblyInfoInputs.cache
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/obj/Debug/netcoreapp3.1/BilgisayarOrnegi.AssemblyInfo.cs
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/obj/Debug/netcoreapp3.1/BilgisayarOrnegi.csproj.CoreCompileInputs.cache
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/obj/Debug/netcoreapp3.1/BilgisayarOrnegi.dll
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/obj/Debug/netcoreapp3.1/BilgisayarOrnegi.pdb
+/Users/cemgoksu/Projects/OOP/BilgisayarOrnegi/obj/Debug/netcoreapp3.1/BilgisayarOrnegi.genruntimeconfig.cache
